@@ -2,7 +2,7 @@
 
 ![Project Logo](https://img.shields.io/badge/DIY-XL4015%20USB%20Power%20Supply-blue?style=for-the-badge&logo=usb&logoColor=white)  
 ![Made with EasyEDA](https://img.shields.io/badge/PCB-EasyEDA-green?style=for-the-badge&logo=autodesk&logoColor=white)  
-![Made with PCBWAY](https://img.shields.io/badge/PCB-EasyEDA-green?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Made with PCBWAY](https://img.shields.io/badge/PCB-PCBWay-green?style=for-the-badge&logo=autodesk&logoColor=white)  
 ![License](https://img.shields.io/badge/License-OpenSource-yellow?style=for-the-badge)  
 
 A compact and powerful **USB power supply** based on the **XL4015 buck converter IC**.  
